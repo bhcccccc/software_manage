@@ -8,8 +8,9 @@ check_lock = Lock()
 app = Flask(__name__, template_folder='../templates', static_folder='../static')
 CORS(app)
 
-printf("hello")
-printf("hello_2")
+c给出R8~R15的操作命令，并给出执行界面的截图（命令输入界面和结果界面）
+给出R8~R15的操作命令，并给出执行界面的截图（命令输入界面和结果界面）
+给出R8~R15的操作命令，并给出执行界面的截图（命令输入界面和结果界面）
 socketio = SocketIO(app, cors_allowed_origins="*")
 # MySQL connection configuration
 db_config = {

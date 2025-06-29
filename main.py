@@ -22,7 +22,9 @@ from alarmm.alarm1 import start_alarm_server
 student_id="2213634"
 student_id="2213634_2"
 password='123456'
-
+xiugai B3
+xiugai B3
+B3
 nowusername=''
 nowrole=''
 
